@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.sublime-project
+.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Dependencies (duplicated from subdirs, but good to have at root)
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
