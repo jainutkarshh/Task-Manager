@@ -10,15 +10,15 @@ Backend Developer Intern assignment.
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots\login.png)
+![Login](screenshots/login.png)
 
 ### Register Page
 ![Register](screenshots/register.png)
 
 ### Dashboard
-![Dashboard](screenshots\adminDashboard.png)
-![Dashboard](screenshots\userDashboard.png)
-![Dashboard](screenshots\task.png)
+![Dashboard](screenshots/adminDashboard.png)
+![Dashboard](screenshots/userDashboard.png)
+![Dashboard](screenshots/task.png)
 
 ### Swagger API Docs
 ![Swagger](screenshots/swagger1.png)
